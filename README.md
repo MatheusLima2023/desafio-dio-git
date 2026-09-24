@@ -1,9 +1,7 @@
 
 # 📊 Simulador de Investimento em Fundos Imobiliários (FIIs)
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Finance](https://img.shields.io/badge/Finance-Portfolio-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
+
 
 ## 📌 Visão Geral do Projeto
 
